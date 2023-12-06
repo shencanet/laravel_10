@@ -17,8 +17,9 @@
                 <th>Tarea</th>
                 <th>Descripción</th>
                 <th>Fecha</th>
-                
+
                 <th>Estado</th>
+                
                 <th>Acción</th>
             </tr>
             <tr>
