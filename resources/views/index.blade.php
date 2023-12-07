@@ -16,14 +16,15 @@
             <tr class="text-secondary">
                 <th>Tarea</th>
                 <th>Descripción</th>
+
                 <th>Fecha</th>
 
                 <th>Estado</th>
-                
+
                 <th>Acción</th>
             </tr>
             <tr>
-                <td class="fw-bold">Estudiar Laravel</td>
+                <td class="fw-bold">Estudiar Laravel2</td>
                 <td>Ver video: tu primer CRUD con laravel 10 en el canal de YouDevs</td>
                 <td>
                     31/03/23
